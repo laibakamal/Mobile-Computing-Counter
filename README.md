@@ -1,1 +1,1 @@
-"# Mobile-Computing-Counter" 
+This repository contains android studio project for a simple counter.
